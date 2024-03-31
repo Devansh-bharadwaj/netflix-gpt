@@ -9,3 +9,5 @@ export const API_OPTIONS = {
       "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI4YTdlOGZiODJjNjYzMzkwY2RjMDQ3YzI5MzQ5MWFmYiIsInN1YiI6IjY1ZmM1MDRkMGJjNTI5MDE0OWFlNGQwNiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.VHe-Gjj-TokTtuwRe8vxFYKp9uuWb6wTIP0ygJsBRuw",
   },
 };
+
+export const CDN_IMG_URL = "https://image.tmdb.org/t/p/w200/";
